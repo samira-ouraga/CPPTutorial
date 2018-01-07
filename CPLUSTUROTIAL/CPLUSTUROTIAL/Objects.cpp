@@ -1,5 +1,6 @@
 #include "Rectangle.h"
 //object is an instance of a class
+/*
 int main()
 {
 	int x; //uninitialized
@@ -20,3 +21,5 @@ int main()
 
 	return 0;
 }
+
+*/
