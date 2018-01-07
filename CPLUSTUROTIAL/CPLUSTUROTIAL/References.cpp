@@ -7,7 +7,7 @@ void multiply_by_two(int& par)
 	//x and par will change in the same place, w/0 & the function won't
 	//change x value but thx to it it will 
 }
-
+/*
 int main()
 {
 	int x{ 1 };
@@ -27,3 +27,4 @@ int main()
 	return 0;
 
 }
+*/

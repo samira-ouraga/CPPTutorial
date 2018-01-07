@@ -33,9 +33,15 @@
     <ClCompile Include="References.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Inheritance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Rectangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NamedRectangle.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
