@@ -1,6 +1,7 @@
 #pragma once
+#include "Shape.h"
 //how to write a class 
-class Rectangle
+class Rectangle : public Shape
 {
 private:
 	int _width;
@@ -27,6 +28,9 @@ public:
 	}
 
 	//decalre it here since it is defined in rec cpp
-	int area();
+	int area() const
+	{
+		return _width * _height;
+	}
 	
 };
