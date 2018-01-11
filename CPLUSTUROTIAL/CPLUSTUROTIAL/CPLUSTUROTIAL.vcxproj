@@ -114,6 +114,7 @@
     <ClCompile Include="Inheritance.cpp" />
     <ClCompile Include="Objects.cpp" />
     <ClCompile Include="Operations.cpp" />
+    <ClCompile Include="Pointers.cpp" />
     <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="References.cpp" />
     <ClCompile Include="Source.cpp" />

@@ -12,6 +12,7 @@ int compute_area(const Shape& a_shape)
 {
 	return a_shape.area();
 }
+/*
 int main()
 {
 	NamedRectangle rec1{ "Sam", 3,4 };
@@ -40,3 +41,4 @@ int main()
 
 	return 0;
 }
+*/
